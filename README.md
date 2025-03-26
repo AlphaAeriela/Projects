@@ -14,7 +14,7 @@ AtliQ Motors is an automotive giant from the USA specializing in electric vehicl
 - Step 2 : Establish a connection to access the database from Power BI and build a data model that reflects the relationships between tables.
 - Step 3 : Also creating a new csv File and table by the name Revenue, assuming an average unit price of 2-wheeler and 4-wheelers EVs as Rs85000 and Rs1500000 respectively and importing into PostgreSQL and connecting to PowerBI.
 
-Primary_And_Secondary_Analysis
+## Primary Analysis
 1. List the top 3 and bottom 3 makers for the fiscal years 2023 and 2024 in terms of the number of 2-wheelers sold
 Calculated_Columns: Total EV sales per makers = sum(electric_vehicle_sales_by_makers[electric_vehicles_sold])
 Filters and slicers for this visual:-
